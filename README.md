@@ -1,7 +1,6 @@
 ## Okpoudhu Destiny Oghenekeno
 
-Final-year Computer Science student at Wellspring University, Benin City,
-graduating October 2026.
+Computer Scientist 
 
 I'm early in my development journey and building in the open. Right now I'm
 working through Python with CS50P and writing my portfolio site from scratch
